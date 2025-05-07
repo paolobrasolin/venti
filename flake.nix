@@ -18,6 +18,8 @@
             rustc
             cargo
             pnpm
+            rustfmt
+            rust-analyzer
           ];
         };
       }
